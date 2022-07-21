@@ -1,5 +1,3 @@
-# nodejs with firebase authentication
-
 ### Install
 
     Clone the repo
