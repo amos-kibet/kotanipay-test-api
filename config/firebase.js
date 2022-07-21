@@ -6,7 +6,7 @@ require("firebase/firestore");
 const firebaseConfig = {
   apiKey: "AIzaSyDg0A60wtzD0iKV3KbOYvdjdB8ISPbkEl4",
   authDomain: "kotanipay-api-7c7e9.firebaseapp.com",
-  //databaseURL: "",
+  databaseURL: "https://kotanipay-api-7c7e9-default-rtdb.firebaseio.com",
   projectId: "kotanipay-api-7c7e9",
   storageBucket: "kotanipay-api-7c7e9.appspot.com",
   messagingSenderId: "309369175389",
